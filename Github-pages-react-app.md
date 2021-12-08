@@ -46,6 +46,7 @@ Also make sure that gh-pages is listed as a dependency at the bottom of the file
 It should say that the app is deployed and give the link to the deployed page. 
 
 
+## Notes & common issues:
 
-
-## Note: images should be inside the src folder 
+- shows 404 error on reload: [link to fix](https://maximorlov.com/deploying-to-github-pages-dont-forget-to-fix-your-links/)
+- images should be inside the SRC folder!
