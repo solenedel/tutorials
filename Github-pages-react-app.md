@@ -50,3 +50,4 @@ It should say that the app is deployed and give the link to the deployed page.
 
 - shows 404 error on reload: [link to fix](https://maximorlov.com/deploying-to-github-pages-dont-forget-to-fix-your-links/)
 - images should be inside the SRC folder!
+- **if deploying an existing repo with a back end (nodeJS):** When the server files were present (nodeJS, etc) `npm start` and `npm run dev` did not work (error with react-scripts start script). Solved by deleting all back-end related files. 
